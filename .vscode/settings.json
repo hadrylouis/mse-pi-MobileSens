@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "gpio.h": "c"
-    }
+    },
+    "nrf-connect.applications": [
+        "${workspaceFolder}/ex2"
+    ]
 }
