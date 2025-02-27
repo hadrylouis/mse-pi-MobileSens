@@ -1,0 +1,13 @@
+# Target labels
+ blinky
+# Source files and their labels
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/CMakeFiles/blinky
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/CMakeFiles/blinky.rule
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/CMakeFiles/blinky-complete.rule
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-build.rule
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-configure.rule
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-download.rule
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-install.rule
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-mkdir.rule
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-patch.rule
+/Users/hadrien/devs/mse/pi-mobile-sens/blinky/build/_sysbuild/sysbuild/images/blinky-prefix/src/blinky-stamp/blinky-update.rule

@@ -1,0 +1,7 @@
+default: blinky
+build_dir: /Users/hadrien/devs/mse/pi-mobile-sens/blinky/build_1
+domains:
+  - name: blinky
+    build_dir: /Users/hadrien/devs/mse/pi-mobile-sens/blinky/build_1/blinky
+flash_order:
+  - blinky
